@@ -30,7 +30,11 @@ local-blockchain/testnet
 mainnet
 
 6.Run the app locally:
+
+
   *npm start
+
+  
   *npm run build
 
 
