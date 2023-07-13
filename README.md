@@ -42,8 +42,8 @@ mainnet
   Demo Images
 
   
-  ![Screenshot from 2023-07-12 18-52-09](https://github.com/21givenchy/proofchain/assets/65071041/656e6ac7-aa2f-470b-a372-972849c526c0)
    
+![Screenshot from 2023-07-13 10-59-51](https://github.com/21givenchy/proofchain/assets/65071041/7d35d3f6-3a8c-4e89-b772-dbb270253c44)
 
 
 
