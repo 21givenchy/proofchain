@@ -1,3 +1,53 @@
+# Proofchain
+
+Blockchain-based counterfeit product detection system.
+
+## Development
+
+### Prerequisites
+
+* Node 14
+* Python 2 (preferred)
+* Truffle
+
+### Steps to run the application
+
+1. Install dependencies for smart contracts:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # proofchain
 Blockchain-based counterfeit product detection system.
       Development
